@@ -1,4 +1,4 @@
-Nome do projeto: \n
+Nome do projeto:
 --> Favorite Songs
 
 O que é:
