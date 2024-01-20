@@ -31,8 +31,8 @@ Conteúdo (Fundamentos do C#):<br />
 Observação:<br />
 --> Nem todos os conteúdos citados acima, foram aplicados no desenvolvimento deste aplicativo de console;<br />
 --> Este aplicativo não possui:<br />
-  --> conexões com banco de dados (será realizado em breve com o andamento da formação);<br />
-  --> refatoração de código (será realizado em breve com o andamento da formação);<br />
+------> conexões com banco de dados (será realizado em breve com o andamento da formação);<br />
+------> refatoração de código (será realizado em breve com o andamento da formação);<br />
 
 Criado e desenvolvido por: Jéssica Nepomuceno, [linkedin]. 
 
