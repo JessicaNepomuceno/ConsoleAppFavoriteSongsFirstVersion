@@ -6,10 +6,9 @@ O que é:<br />
 
 Motivação:<br />
 --> Projeto criado à prática da Formação:<br />
-  --> Aprenda a programar em C# com Orientação a Objetos, na plataforma Alura.<br />
-    --> Link: [Alura]<br />
-  --> Carreira: .NET Developer Fundamentals - Fundamentos do C#, na plataforma Balta.io<br />
-    --> Link: [Balta.io]<br />
+------> Aprenda a programar em C# com Orientação a Objetos, na plataforma [Alura].<br />
+------> Carreira: .NET Developer Fundamentals - Fundamentos do C#, na plataforma [Balta.io].<br />
+    
 
 Descrição:<br />
 --> A ideia central do aplicativo é simular um gerenciador de música. Ele permite que realize cadastros de músicas (informando o nome do artista, o nome da música e a nota), liste, atualize e exclua as músicas cadastradas em tempo de execução.<br />
