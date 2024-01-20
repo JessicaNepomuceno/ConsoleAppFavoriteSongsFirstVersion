@@ -14,20 +14,19 @@ Motivação:<br />
 Descrição:<br />
 --> A ideia central do aplicativo é simular um gerenciador de música. Ele permite que realize cadastros de músicas (informando o nome do artista, o nome da música e a nota), liste, atualize e exclua as músicas cadastradas em tempo de execução.<br />
 
-Conteúdo: Fundamentos do C#<br />
+Conteúdo (Fundamentos do C#):<br />
 --> Tipo do projeto: Console;<br />
---> Conteúdos:<br />
-  --> Variáveis;<br />
-  --> Constantes;<br />
-  --> Tipos de dados;<br />
-  --> Conversão de dados;<br />
-  --> Operadores(aritméticos, atribuição, comparação, lógicos);<br />
-  --> Estruturas condicionais (if e switch);<br />
-  --> Laços de repetição (for, while, do/while);<br />
-  --> Funções e métodos;<br />
-  --> Tipos de referência e valor;<br />
-  --> Estruturas;<br />
-  --> Enumeradores;<br />
+--> Variáveis;<br />
+--> Constantes;<br />
+--> Tipos de dados;<br />
+--> Conversão de dados;<br />
+--> Operadores(aritméticos, atribuição, comparação, lógicos);<br />
+--> Estruturas condicionais (if e switch);<br />
+--> Laços de repetição (for, while, do/while);<br />
+--> Funções e métodos;<br />
+--> Tipos de referência e valor;<br />
+--> Estruturas;<br />
+--> Enumeradores;<br />
 
 Observação:<br />
 --> Nem todos os conteúdos citados acima, foram aplicados no desenvolvimento deste aplicativo de console;<br />
