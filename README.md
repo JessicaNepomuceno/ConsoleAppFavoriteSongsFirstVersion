@@ -1,5 +1,5 @@
 Nome do projeto:<br />
---> Favorite Songs<br />
+--> Favorite Songs 1ª versão<br />
 
 O que é:<br />
 --> Um aplicativo de console<br />
