@@ -1,4 +1,41 @@
-Nome do projeto:<br />
+# [English] Project Name:<br />
+--> Favorite Songs 1st version<br />
+
+What is it:<br />
+--> A console application<br />
+
+Motivation:<br />
+--> Project created for practice from the Courses:<br />
+------> Learn to program in C# with Object-Oriented Programming, on the [Alura] platform.<br />
+------> Career: .NET Developer Fundamentals - Fundamentals of C#, on the [Balta.io] platform.<br />
+
+Description:<br />
+--> The central idea of the application is to simulate a music manager. It allows you to register songs (providing the artist's name, song name, and rating), list, update, and delete the registered songs at runtime.<br />
+
+Content (Fundamentals of C#):<br />
+--> Project type: Console;<br />
+--> Variables;<br />
+--> Constants;<br />
+--> Data types;<br />
+--> Data conversion;<br />
+--> Operators (arithmetic, assignment, comparison, logical);<br />
+--> Conditional structures (if and switch);<br />
+--> Loop structures (for, while, do/while);<br />
+--> Functions and methods;<br />
+--> Reference and value types;<br />
+--> Structures;<br />
+--> Enumerators;<br />
+
+Note:<br />
+--> Not all of the above-mentioned contents were applied in the development of this console application.<br />
+--> This application does not have:<br />
+------> connections to databases (to be done soon as the course progresses);<br />
+------> code refactoring (to be done soon as the course progresses).<br />
+
+Created and developed by: Jéssica Nepomuceno, [linkedin].
+<br />
+<br />
+# [Português] Nome do projeto:<br />
 --> Favorite Songs 1ª versão<br />
 
 O que é:<br />
