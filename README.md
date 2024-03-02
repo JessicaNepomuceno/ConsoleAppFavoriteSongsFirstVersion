@@ -2,7 +2,7 @@ Nome do projeto:<br />
 --> Favorite Songs<br />
 
 O que é:<br />
---> Aplicativo de console<br />
+--> Um aplicativo de console<br />
 
 Motivação:<br />
 --> Projeto criado à prática da Formação:<br />
